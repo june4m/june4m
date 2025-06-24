@@ -2,12 +2,6 @@
 <h3 align="center">A software developer from Viet Nam</h3>
 ---
 
-### 📈 My Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/june4m/snk/output/github-contribution-grid-snake.svg)
-
-
----
-
 ### 🧰 Tech Stack
 
 #### Languages  
@@ -28,3 +22,8 @@
 #### Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### 📈 My Contribution Graph
+![Contribution Graph](https://raw.githubusercontent.com/june4m/snk/output/github-contribution-grid-snake.svg)
+
+
+---
