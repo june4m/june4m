@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Cong Minh</h1>
 <h3 align="center">A software developer from Viet Nam</h3>
+---
+
+### 📈 My Contribution Graph
+![Contribution Graph](https://raw.githubusercontent.com/june4m/june4m/output/github-contribution-grid-snake.svg)
 
 ---
 
