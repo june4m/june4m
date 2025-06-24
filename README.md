@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Công Minh</h1>
-<h3 align="center">A passionate full-stack developer from Việt Nam</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Cong Minh</h1>
+<h3 align="center">A software developer from Viet Nam</h3>
 
 ---
 
